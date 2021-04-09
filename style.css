@@ -88,3 +88,11 @@ h1 {
   border: none;
   color: whitesmoke;
 }
+
+.winner {
+  color: green;
+}
+
+.loser {
+  color: red;
+}
